@@ -7,15 +7,17 @@ exc:1
 3
 4
 size:4
+
 exc:2
 1
 3
 4
 size:3
+
 exc:3
 2
-exc4
 
+exc4:
 before erase an elem (id:1)
 key:2 value:2
 key:1 value:1
